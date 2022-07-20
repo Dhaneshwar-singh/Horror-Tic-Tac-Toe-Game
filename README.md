@@ -15,5 +15,8 @@ Tic Tac Toe Game with Exciting Horror Feature . now play old tic tac toe game wi
 - [x] changed UI/UX
 - [x] CONTROLLERS CHANGE
 
+## 🤓 Developer 
+**Dhaneshwar Singh** [![Telegram](https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg)](https://t.me/Developer_boy_d)
+
 
 <a href="https://play.google.com/store/apps/details?id=com.horror.tictactoe"><img src="play.png" width="400" ></img></a>
